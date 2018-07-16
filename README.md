@@ -1,2 +1,5 @@
 # hello-world
-My first ever repository on GitHub  :)
+
+Hello!
+
+I'm Bartek and this is my first ever line of code on GitHub!  :D
